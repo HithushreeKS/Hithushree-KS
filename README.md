@@ -1,14 +1,8 @@
 <!-- 🌸 HEADER -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&text=Hithushree&fontSize=42&fontColor=ffffff&height=200&section=header&animation=twinkling&color=0:ff9a9e,100:fbc2eb" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&text=Hithushree&fontSize=38&fontColor=ffffff&height=180&section=header&animation=fadeIn&color=0:fbc2eb,100:a6c1ee" />
 
 <!-- ⌨️ TYPING -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF9AA2&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Hithushree;FlutterFlow+Developer;Supabase+%7C+AI+Enthusiast" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FBC2EB&center=true&vCenter=true&width=650&lines=Hithushree+%7C+FlutterFlow+%7C+Supabase+%7C+AI+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 ---
 
