@@ -35,23 +35,16 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hithushreeKS&show_icons=true&theme=default&hide_border=true&title_color=FF9AA2&icon_color=FF9AA2&text_color=FBC2EB" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=hithushreeKS&show_icons=true&theme=transparent&bg_color=0d1117&title_color=FF9AA2&icon_color=FF9AA2&text_color=FBC2EB" />
 ---
 
 ## 🔥 Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hithushreeKS&theme=default&hide_border=true&ring=FF9AA2&fire=FFB6C1&currStreakLabel=FF9AA2&sideLabels=FBC2EB&dates=FBC2EB" />
-</p>
+<img src="https://streak-stats.demolab.com?user=hithushreeKS&theme=transparent&background=0d1117&ring=FF9AA2&fire=FF6F91&currStreakLabel=FF9AA2&sideLabels=FBC2EB&dates=FBC2EB" />
 
 ---
 
 ## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hithushreeKS&bg_color=ffffff&color=FF9AA2&line=FFB6C1&point=FBC2EB&area=true&hide_border=true&hide_title=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hithushreeKS&bg_color=0d1117&color=FF9AA2&line=FF6F91&point=FBC2EB&area=true&hide_border=true&hide_title=true" />
 
 ---
 
